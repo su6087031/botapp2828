@@ -1,4 +1,4 @@
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFuaiPOutEse4iwVFlSlC4-qhKP2twgZ-uw&usqp=CAU)]
+(https://telegra.ph/file/d784d16b5a0123ac0d30f.jpg)]
 
 - qBittorrent
 - Rss feed reader
