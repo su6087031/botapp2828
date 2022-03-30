@@ -1,18 +1,5 @@
-[![Priiiiyo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFuaiPOutEse4iwVFlSlC4-qhKP2twgZ-uw&usqp=CAU)](https://t.me/PriiiiyoMirrorLeechUpdates)
+(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFuaiPOutEse4iwVFlSlC4-qhKP2twgZ-uw&usqp=CAU)]
 
-# Priiiiyo Mirror Leech Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/PriiiiyoDevs/priiiiyo-mirror-leech-bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/PriiiiyoDevs/priiiiyo-mirrorbot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/PriiiiyoDevs/priiiiyo-mirror-leech-bot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/PriiiiyoDevs/priiiiyo-mirror-leech-bot)
-![Docker Pulls](https://img.shields.io/docker/pulls/priiiiyo/mega-sdk-python?label=Docker%20Pull)
-[![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/PriiiiyoMirrorLeechUpdates)
-
-**Priiiiyo Mirror Leech Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
-
-# Features:
-
-## By PriiiiyoDevs
 - qBittorrent
 - Rss feed reader
 - Select files from Torrent before downloading using qbittorrent
