@@ -1,6 +1,6 @@
 ![steven](https://telegra.ph/file/d784d16b5a0123ac0d30f.jpg)
 
-- qBittorrent client
+- qBittorrent
 - Rss feed reader
 - Select files from Torrent before downloading using qbittorrent
 - Leech (splitting, thumbnail for each user, setting as document or as media for each user)
