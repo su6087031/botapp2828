@@ -32,7 +32,7 @@ def gen_chlog(repo, diff):
 @app.on_message(filters.command([BotCommands.UpdateCommand, f'{BotCommands.UpdateCommand}@{bot.username}']) & filters.user(OWNER_ID))
 async def update_it(client, message):
     msg_ = await message.reply_text("`Succuesfully connected to SparkxCloud.org, Updating Please Wait!`")
-    text = message.text.split(None, 1)[1]
+    text = message.text.split()
     try:
         repo = Repo()
     except GitCommandError:
